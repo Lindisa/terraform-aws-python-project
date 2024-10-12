@@ -1,0 +1,4 @@
+# lambda/requirements.txt
+
+# Example:
+# boto3==1.20.0
